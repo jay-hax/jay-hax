@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**jay-hax/jay-hax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me:**
+* 🎯 I am **Jay Jay**.
+* 🛡️ I work in **cybersecurity**.
+* ⚡ I use the tools that **hackers** use to secure networks.
 
-Here are some ideas to get you started:
+🛠️ **My Arsenal & Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔍 **Reconnaissance & Scanning:** [Nmap](https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/best-penetration-testing-tools/) | Wireshark | Masscan
+* 🕸️ **Web App Penetration Testing:** [Burp Suite](https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/best-penetration-testing-tools/) | OWASP ZAP | Sqlmap
+* 🚀 **Exploitation Frameworks:** [Metasploit](https://github.com/enaqx/awesome-pentest) | BeEF | Netcat
+* 🔑 **Password Cracking & Auditing:** [Hashcat](https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/best-penetration-testing-tools/) | John the Ripper | Hydra
+* 💻 **Operating Systems:** Kali Linux | Parrot OS
+
+🔗 **Connect with me:**
+  * 🌐 [Find me on Linktree] (https://linktr.ee/jayjaylinks)
